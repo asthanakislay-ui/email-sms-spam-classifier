@@ -4,7 +4,7 @@ A Machine Learning web application that classifies Email and SMS messages as **S
 
 ## 🚀 Live Demo
 
-Coming Soon
+https://email-sms-spam-classifier-i7vg.onrender.com/
 
 ---
 
@@ -52,7 +52,7 @@ Prediction
 
 ## 📷 Screenshot
 
-(Add screenshot after deployment)
+![Uploading image.png…]()
 
 ---
 
